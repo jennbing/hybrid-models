@@ -13,4 +13,4 @@
 # 1) install R programming software (https://www.r-project.org/)
 # 2) put all the folders and files here into a single folder
 # 3) define the file paths in script (RMM) 1.R and script (RMM) 2.R
-# 4) run the script in R programming software
+# 4) run script (RMM) 1.R and script (RMM) 2.R in R programming software
