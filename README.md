@@ -1,4 +1,4 @@
-# file description
+# files description
 1. rmm_predict.R - R function codes for predictive modeling 
 2. rmm_anomaly.R - R function codes for anomaly detection
 3. script_predict.R - R script to predictive modeling using 10-fold cross validation
