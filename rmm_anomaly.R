@@ -1,6 +1,4 @@
-# functions for computational study in Barkan & Averbuch (2015) are included here.
-# for more information, please refer to Barkan & Averbuch (2015), 
-# Robust Subspace Mixing Models for Anomaly Detection in High Dimensions.
+# functions used for hybrid mixture modeling
 
 # install R packages
 install.packages("abind")
